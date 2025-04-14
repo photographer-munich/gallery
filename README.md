@@ -1,2 +1,2 @@
-# gallery
+# Gallery
 My photography gallery
